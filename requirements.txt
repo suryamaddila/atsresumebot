@@ -1,4 +1,3 @@
---upgrade-strategy eager
 python-telegram-bot==20.8
 python-dotenv==1.1.1
 fpdf
