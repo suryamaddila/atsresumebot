@@ -1,4 +1,0 @@
-buildCommand: |
-  pip uninstall -y telegram  # remove the wrong package
-  pip install -r requirements.txt
-startCommand: python main.py
