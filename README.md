@@ -23,6 +23,7 @@ cd ats-resume-bot
 
 ### Render Environment Variables Setup
 ```
+```bash
 TELEGRAM_BOT_TOKEN=8450693332:AAHS78W-NIvPomRihJH5Zd0RIzMYQmvs3co
 OPENAI_API_KEY=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
 CASHFREE_CLIENT_ID=cfsk_ma_prod_a941e4435990817c8f02c3b9325d7a67_729a32ec  
@@ -35,4 +36,5 @@ ENVIRONMENT=production
 DEBUG=False
 LOG_LEVEL=INFO
 BOT_USERNAME=suryaatsresumebot
+
 ```
